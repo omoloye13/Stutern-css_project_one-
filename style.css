@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: white;
+}
+.section_one{
+    margin: auto;
+     padding:1em; 
+    text-align:center; 
+    border:solid; 
+     width:400px;
+     height:200px;
+     margin-top: 1.5em;
+
+}
+
+#para_one{
+    font-size: 14px; 
+    color: green;
+    padding: 1em;
+}
+.section_two{
+    margin: auto;
+     padding:1em; 
+    text-align:center; 
+    border:solid; 
+     width:400px;
+     height:200px;
+     margin-top: 1.5em;
+}
+#para_two{
+    font-size: 14px; 
+    color: red;
+    padding: 1em;
+}
+.section_three{
+    margin: auto;
+     padding:1em; 
+    text-align:center; 
+    border:solid; 
+     width:400px;
+     height:200px;
+     margin-top: 1.5em;
+}
+#para_three{
+    font-size: 14px; 
+    color: blue;
+    padding: 1em; 
+}
